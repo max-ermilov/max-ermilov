@@ -1,10 +1,10 @@
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=10000&color=0000FF&vCenter=true&width=435&height=30&lines=console.log(max_ermilov.about))
+![](./assets/console.svg)
 ### Привет! Меня зовут Максим Ермилов, и я начинающий веб-разработчик 👋
 
 ### 👨🏻‍💻 &nbsp;Обо Мне:
 - 🔭 Прошел школу Я.Практикума по профессии Веб-разработчик.
 - 🎓 Нравится изучать новые технологии, в данный момент осваиваю Redux
-- 🤝🏻 Прямо сейчас ищу работу
+- 🤝🏻 Прямо сейчас [ищу работу](https://www.linkedin.com/in/max-ermilov/)
 
 ### Стек:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
