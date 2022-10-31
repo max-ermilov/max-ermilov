@@ -1,4 +1,4 @@
-<div style='background-image: url(https://user-images.githubusercontent.com/93122869/199024912-ff4a4078-49df-4ad7-b957-eff4c0e83fd1.svg); background-repeat: no-repeat; width:435px; height:30px'></div>
+![](./assets/console.svg)
 ### Привет! Меня зовут Максим Ермилов, и я начинающий веб-разработчик 👋
 
 ### 👨🏻‍💻 &nbsp;Обо Мне:
