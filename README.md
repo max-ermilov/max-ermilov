@@ -1,4 +1,4 @@
-![](./assets/console.svg)
+[![](./assets/console.svg)](https://career.habr.com/max-ermilov)
 ### Привет! Меня зовут Максим Ермилов, и я начинающий веб-разработчик 👋
 ### 👨🏻‍💻 &nbsp;Обо Мне:
 - 🔭 Прошел школу Я.Практикума по профессии Веб-разработчик.
@@ -13,6 +13,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ### Где меня найти?
-- [Последний проект](https://fin.nomoredomains.xyz/)
-- [![](https://www.codewars.com/users/max-ermilov/badges/small)](https://www.codewars.com/users/max-ermilov/)
 - [Написать в Telegram](https://t.me/yermish)
+- [Последний проект](https://fin.nomoredomains.xyz/)
+- [![](https://www.codewars.com/users/max-ermilov/badges/micro)](https://www.codewars.com/users/max-ermilov/)
