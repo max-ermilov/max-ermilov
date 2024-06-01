@@ -1,8 +1,8 @@
 <a href="https://career.habr.com/max-ermilov"><img src="./assets/console.svg"></a>
-### Привет! Меня зовут Максим Ермилов, и я начинающий веб-разработчик 👋
+### Привет! Меня зовут Максим Ермилов, и я веб-разработчик 👋
 ### 👨🏻‍💻 &nbsp;Обо Мне:
 - 🔭 Прошел школу Я.Практикума по профессии Веб-разработчик.
-- 🎓 Нравится изучать новые технологии, в данный момент осваиваю Redux
+- 🎓 Нравится изучать новые технологии, в данный момент осваиваю Django
 - 🤝🏻 Прямо сейчас [ищу работу](https://www.linkedin.com/in/max-ermilov/)
 ### Стек:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
