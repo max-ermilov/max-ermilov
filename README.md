@@ -14,5 +14,5 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ### Где меня найти?
 - [Написать в Telegram](https://t.me/yermish)
-- [Последний проект](https://portfolio.gore.moe/)
+- [Последний проект](https://toylibrary.ru/)
 - [![](https://www.codewars.com/users/max-ermilov/badges/micro)](https://www.codewars.com/users/max-ermilov/)
