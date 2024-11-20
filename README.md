@@ -1,10 +1,13 @@
-<a href="https://career.habr.com/max-ermilov"><img src="./assets/console.svg"></a>
+<img src="./assets/console.svg">
 
 ### Привет! Я Максим Ермилов, веб-разработчик
 
 Умею в Python, Django, Docker и другие бэкэнд технологии.
+
 Знаком с React, Node.js. 
+
 Люблю исследовать новые технологии.
+
 В данный момент [ищу работу](). 
 
 ### Технологический стек:
