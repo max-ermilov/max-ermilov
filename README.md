@@ -18,4 +18,4 @@
 
 ### Где меня найти:
 - Написать в [Telegram](https://t.me/yermish)
-- Последний проект: [toylibrary.ru](https://toylibrary.ru)
+- Последний проект: [thermopol-app.lad-academy.ru](https://thermopol-app.lad-academy.ru)
